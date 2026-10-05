@@ -55,9 +55,8 @@ Theo em, trong 10 năm tới lập trình di động vẫn sẽ tiếp tục ph�
 - ✅ Hiển thị trường học
 
 ## Video hướng dẫn
-
+Link Git: https://github.com/Thinhth06/bai_tap_tuan1.git
 Link video:
-DÁN LINK VIDEO CỦA BẠN VÀO ĐÂY
 
 ### Cấu trúc project
 ```text
@@ -67,7 +66,7 @@ bai_tap_tuan1
 ├── .gradle
 ├── .idea
 │
-├── app
+├── app  
 │   │
 │   └── src
 │       │
@@ -97,6 +96,9 @@ bai_tap_tuan1
 │           │   └── xml
 │           │
 │           └── AndroidManifest.xml
+├── tailieu/               # Tài liệu, hình ảnh minh họa
+│   └── HinhAnh/
+│       └── screenshot.png
 │
 ├── README.md                                    
 └── ...
